@@ -24,10 +24,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing a **B.E. in Electronics and Communication Engineering** at Ramco Institute of Technology (2023-2027)[cite: 1].
-- 💡 Passionate about **VLSI Design, Digital Circuits, and Electronic Devices**[cite: 1].
-- 🔧 Experienced in building real-world solutions using **Embedded C, Verilog HDL, and IoT architecture**[cite: 1].
-- 🚀 Currently focused on enhancing my skills in **Embedded Systems** and working on SDLC-based IoT projects[cite: 1].
+- 🎓 Pursuing a **B.E. in Electronics and Communication Engineering** at Ramco Institute of Technology (2023-2027).
+- 💡 Passionate about **VLSI Design, Digital Circuits, and Electronic Devices**.
+- 🔧 Experienced in building real-world solutions using **Embedded C, Verilog HDL, and IoT architecture**.
+- 🚀 Currently focused on enhancing my skills in **Embedded Systems** and working on SDLC-based IoT projects.
 
 ---
 
@@ -55,30 +55,30 @@
 <details>
   <summary><b>🏭 Smart Factory IoT Monitoring System</b></summary>
   <br/>
-  Designed and simulated a comprehensive Smart Factory IoT system to track metrics like temperature, humidity, vibration, and motion[cite: 1].
+  Designed and simulated a comprehensive Smart Factory IoT system to track metrics like temperature, humidity, vibration, and motion.
   <ul>
-    <li><b>Technologies:</b> Arduino Uno, PICSimLab, ThingsBoard Cloud, MQTT, Ethernet[cite: 1].</li>
-    <li><b>Features:</b> Real-time dashboards, automated ventilation, alarms, and RPC-based remote control[cite: 1].</li>
+    <li><b>Technologies:</b> Arduino Uno, PICSimLab, ThingsBoard Cloud, MQTT, Ethernet.</li>
+    <li><b>Features:</b> Real-time dashboards, automated ventilation, alarms, and RPC-based remote control.</li>
   </ul>
 </details>
 
 <details>
   <summary><b>🏠 RFID-Based Home Automation System</b></summary>
   <br/>
-  Developed a secure Arduino-based system to control home appliances using RFID authentication[cite: 1].
+  Developed a secure Arduino-based system to control home appliances using RFID authentication.
   <ul>
-    <li><b>Technologies:</b> Arduino, Embedded C, RFID Modules[cite: 1].</li>
-    <li><b>Highlights:</b> Practical application of embedded programming and circuit design for secure access[cite: 1].</li>
+    <li><b>Technologies:</b> Arduino, Embedded C, RFID Modules.</li>
+    <li><b>Highlights:</b> Practical application of embedded programming and circuit design for secure access.</li>
   </ul>
 </details>
 
 <details>
   <summary><b>💾 Design and Simulation of an 8×8 Dual-Port RAM</b></summary>
   <br/>
-  Engineered an 8-word × 8-bit dual-port RAM allowing simultaneous read and write operations[cite: 1].
+  Engineered an 8-word × 8-bit dual-port RAM allowing simultaneous read and write operations.
   <ul>
-    <li><b>Technologies:</b> Verilog HDL[cite: 1].</li>
-    <li><b>Highlights:</b> Verified functionality across different memory conditions using waveform analysis and custom testbenches[cite: 1].</li>
+    <li><b>Technologies:</b> Verilog HDL.</li>
+    <li><b>Highlights:</b> Verified functionality across different memory conditions using waveform analysis and custom testbenches.</li>
   </ul>
 </details>
 
@@ -86,20 +86,22 @@
 
 ## 💼 Experience
 
-- **IoT Intern | Emertxe Information Technologies:** Gained hands-on experience in C programming, microcontrollers, and SDLC-based IoT project development[cite: 1].
-- **Embedded Systems Intern | Power Integrated Solutions:** Applied core ECE concepts to industry-level tasks, interfacing sensors and troubleshooting hardware/software bugs[cite: 1].
+- **IoT Intern | Emertxe Information Technologies:** Gained hands-on experience in C programming, microcontrollers, and SDLC-based IoT project development.
+- **Embedded Systems Intern | Power Integrated Solutions:** Applied core ECE concepts to industry-level tasks, interfacing sensors and troubleshooting hardware/software bugs.
 
 ---
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishkanna37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishkanna37&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Abishkanna37/count.svg" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abishkanna37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishkanna37&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Abishkanna37&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
