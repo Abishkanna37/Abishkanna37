@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Abishkanna37">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00979D&center=true&vCenter=true&width=600&lines=B.E.+ECE+%40+Ramco+Institute+of+Technology;IoT+%26+Embedded+Systems+Enthusiast;VLSI+%26+Digital+Circuit+Designer" alt="Typing SVG" />
   </a>
 </p>
