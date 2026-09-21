@@ -85,9 +85,15 @@
 ---
 
 ## 💼 Experience
+- **PCB Design Intern | SSD Tracetech PCB Pvt. Ltd., Coimbatore (07/2026 – 08/2026):**
+    - Converted complex circuit diagrams into functional PCB layouts using schematic design tools.
+    - Created custom component symbols, footprints, performed trace routing, ground plane placement, and Design Rule Checks (DRC).
+    - Generated production-ready Gerber files and Bills of Materials (BOM) for board manufacturing.
 
-- **IoT Intern | Emertxe Information Technologies:** Gained hands-on experience in C programming, microcontrollers, and SDLC-based IoT project development.
-- **Embedded Systems Intern | Power Integrated Solutions:** Applied core ECE concepts to industry-level tasks, interfacing sensors and troubleshooting hardware/software bugs.
+- **IoT Intern | Emertxe Information Technologies (Online)**
+    - Gained hands-on experience in C programming, microcontrollers, and SDLC-based IoT project development.
+- **Embedded Systems Intern | Power Integrated Solutions Trichy (07/2025)**
+    - Applied core ECE concepts to industry-level tasks, interfacing sensors and troubleshooting hardware/software bugs.
 
 ---
 
@@ -95,8 +101,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishkanna37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Abishkanna37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+   -->
   <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishkanna37&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
